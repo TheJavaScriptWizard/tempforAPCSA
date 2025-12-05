@@ -1,5 +1,5 @@
 /**
- * This program generates a ticket and applies discounts based on Age, Name, and first responder adn vetran status.
+ * This program generates a ticket and applies discounts based on Age, Name, and first responder and veteran status.
  *
  * @author Garrison Winters
  * @version 12-5-2025
