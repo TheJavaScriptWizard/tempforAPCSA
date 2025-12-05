@@ -1,0 +1,5 @@
+1. My program runs successfully and correctly performs the mathematical operations to decode the hidden "APRILFOOL" message without errors.
+
+2. I initially had trouble determining the correct mathematical formula to reverse the digits without converting the number to a String first. It was challenging to figure out the right combination of modulus and division to isolate and move each digit inside the loop.
+
+3. In the future, I would use a switch statement for the letter replacement method instead of the long chain of if-else statements. This would streamline the logic and make the code much more readable and efficient to debug.
